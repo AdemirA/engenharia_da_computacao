@@ -1,0 +1,14 @@
+{
+  "name": "exercicio3-calc-test",
+  "version": "1.0.0",
+  "description": "Teste unintários para uma calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ademir Augusto e Cleiton Vinicios",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.2"
+  }
+}
